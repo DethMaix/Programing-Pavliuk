@@ -17,7 +17,7 @@ char *get_animal_type_name(enum animal_type type)
 		result = "maks";
 		break;
 	case DOG:
-		result = "vanya";
+		result = "vany";
 		break;
 	case COW:
 		result = "sonya";
